@@ -2,6 +2,7 @@
 
 <p align="center">
 An A.I. that learns to traverse a maze using the genetic algorithm.
+https://mina03333.github.io/AdamAI/
 
 Using the genetic algorithm, the A.I. “learns” to go through the maze using the concepts of natural selection and survival of the fittest. The base of the natural selection is firstly a single generation of A.I.s (all randomly selected) and as they go through the maze, the fittest is selected by examining the shortest distance to checkpoint in least amount of moves. By increasing the number of moves available to them every five generations so that they master the moves more efficiently (incremental learning), they are able to ‘remember’ old directions and pass on genes of efficiency to later generations.
 
